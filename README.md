@@ -86,7 +86,7 @@ I'm a Web Application Developer.
 
 
 
-<h2>My Github stats:</h2>
+<h2>Some additional experimental stats:</h2>
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
