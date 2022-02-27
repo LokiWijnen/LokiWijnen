@@ -86,6 +86,13 @@ I'm a Web Application Developer.
 
 
 
+<h2>My Github stats:</h2>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+
+
 <h2>My latest Public Github activity:</h2>
 
 <!--START_SECTION:activity-->
