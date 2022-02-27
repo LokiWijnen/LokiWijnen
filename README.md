@@ -83,3 +83,10 @@ I'm a Web Application Developer.
     <img src="https://github-readme-stats.vercel.app/api?username=LokiWijnen&show_icons=true&locale=en" alt="LokiWijnen" width="400" height="160" />&nbsp;&nbsp;
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=LokiWijnen&" alt="LokiWijnen" width="400" height="160" />
 </p>
+
+
+
+<h2>My latest Public Github activity:</h2>
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
