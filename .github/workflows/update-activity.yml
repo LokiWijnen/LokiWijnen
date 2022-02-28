@@ -2,7 +2,9 @@ name: Github - Activity - Readme
 
 on:
   schedule:
-    - cron: '0 * * * *'
+    # https://crontab.guru/
+    # At 03:00 on Monday
+    - cron: '0 3 * * 1'
   workflow_dispatch:
 
 jobs:

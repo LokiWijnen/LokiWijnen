@@ -2,7 +2,9 @@ name: Github - WakaTime - Readme
 
 on:
   schedule:
-    - cron: '30 18 * * *'
+    # https://crontab.guru/
+    # At 03:00 every day
+    - cron: '0 3 * * *'
   workflow_dispatch:
 
 jobs:
@@ -14,4 +16,3 @@ jobs:
       - uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
