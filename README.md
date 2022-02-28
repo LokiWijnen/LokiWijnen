@@ -18,8 +18,6 @@ I'm a Web Application Developer.
     <br /><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="25" height="25" />&nbsp;&nbsp; Git
     <br /><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="25" height="25" />&nbsp;&nbsp; nginx
     <br /><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="25" height="25" />&nbsp;&nbsp; Postgres
-    <br /><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="25" height="25" />&nbsp;&nbsp; MySQL
-    <br /><img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="25" height="25" />&nbsp;&nbsp; MariaDB
     <br /><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="25" height="25" />&nbsp;&nbsp; Sqlite
     <br /><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="25" height="25" />&nbsp;&nbsp; Postman
     <br /><img src="https://www.vectorlogo.zone/logos/cloudflare/cloudflare-icon.svg" alt="Cloudflare" width="25" height="25" />&nbsp;&nbsp; Cloudflare
@@ -58,9 +56,13 @@ I'm a Web Application Developer.
 
 <h3>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="25" height="25" />&nbsp;&nbsp; PHP4 and PHP5
+    <br /><img src="https://www.vectorlogo.zone/logos/apache/apache-icon.svg" alt="php" width="25" height="25" />&nbsp;&nbsp; Apache
+    <br /><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="25" height="25" />&nbsp;&nbsp; MySQL
+    <br /><img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="25" height="25" />&nbsp;&nbsp; MariaDB
+    <br /><img src="https://www.vectorlogo.zone/logos/phpmyadmin/phpmyadmin-icon.svg" alt="php" width="25" height="25" />&nbsp;&nbsp; PhpMyAdmin
     <br /><img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="25" height="25" />&nbsp;&nbsp; Codeigniter
-    <br /><img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="25" height="25" />&nbsp;&nbsp; Symfony
     <br /><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="25" height="25" />&nbsp;&nbsp; Laravel
+    <br /><img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="25" height="25" />&nbsp;&nbsp; Symfony
     <br /><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="25" height="25" />&nbsp;&nbsp; Android
 </h3>
 
@@ -87,6 +89,8 @@ I'm a Web Application Developer.
 
 
 <h2>Some additional experimental stats:</h2>
+
+(should appear soon...)
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
