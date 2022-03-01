@@ -88,17 +88,11 @@ I'm a Web Application Developer.
 
 
 
-<h2>Some additional experimental stats:</h2>
-
-(should appear soon...)
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-
-
 <h2>My latest Public Github activity:</h2>
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#121](https://github.com/Frozen-Flask/Frozen-Flask/issues/121) in [Frozen-Flask/Frozen-Flask](https://github.com/Frozen-Flask/Frozen-Flask)
 <!--END_SECTION:activity-->
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
