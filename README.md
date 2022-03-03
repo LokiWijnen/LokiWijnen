@@ -2,6 +2,19 @@
 
 I'm a Web Application Developer.
 
+The types of projects that I like to work on are:
+- Custom back-end systems, e.g.: tracking stuff like orders, inventory, etc...
+- Custom eCommerce systems
+- Custom Dashboards and Control Panels
+
+Projects that I've worked on in the past include:
+- Custom order tracking
+- Custom patient evaluation and diagnosys systems
+- Custom eCommerce
+- Custom Raffle, Gambling/Gaming, and RNG systems
+
+I'd like to combine IoT into my existing skill set at some point.
+
 
 
 <h2>Tech I use on a regular basis:</h2>
